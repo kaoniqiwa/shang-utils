@@ -1,5 +1,5 @@
 {
-  "name": "package_template",
+  "name": "@panminxiang/package_template",
   "version": "1.0.0",
   "description": "how to publish your npm package",
   "keywords": [
@@ -9,11 +9,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/kaoniqiwa/shang-utils"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/kaoniqiwa/shang-utils",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/kaoniqiwa/shang-utils/issues"
   },
   "main": "index.js",
   "scripts": {
