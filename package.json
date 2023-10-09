@@ -1,0 +1,22 @@
+{
+  "name": "package_template",
+  "version": "1.0.0",
+  "description": "how to publish your npm package",
+  "keywords": [
+    "utils"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airbnb/javascript.git"
+  },
+  "homepage": "https://github.com/airbnb/javascript",
+  "bugs": {
+    "url": "https://github.com/airbnb/javascript/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
