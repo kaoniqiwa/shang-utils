@@ -1,6 +1,6 @@
 {
   "name": "@panminxiang/package_template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how to publish your npm package",
   "keywords": [
     "utils"
